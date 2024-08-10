@@ -1,8 +1,8 @@
-streamlit==1.37.1  # Compatible version found in the environment
-torch==2.4.0  # Latest compatible version
-transformers==4.30.2  # Or the latest version that you are using
-datasets==2.12.0  # For handling datasets from Hugging Face
-PyPDF2==3.0.1  # For handling PDF files
-python-docx==0.8.11  # For handling Word documents
-cryptography==41.0.3  # For handling encryption
-reportlab==3.6.13  # Compatible version of reportlab
+streamlit==1.37.1
+torch==2.4.0
+transformers==4.30.2
+datasets==2.12.0
+PyPDF2==3.0.1
+python-docx==0.8.11
+cryptography==41.0.3
+reportlab==3.6.12  # Downgrade to a version more likely to have a precompiled wheel
