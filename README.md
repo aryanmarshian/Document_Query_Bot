@@ -35,7 +35,8 @@ To run this application, you will need the following:
    cd document-query-chatbot
 2. Install the required packages:
    ```bash
-   pip install streamlit transformers PyPDF2 python-docx fpdf cryptography datasets
+   pip install streamlit transformers PyPDF2 python-docx fpdf cryptography datasets torch
+   
 3. Start the Streamlit application:
    ```bash
    streamlit run app.py
