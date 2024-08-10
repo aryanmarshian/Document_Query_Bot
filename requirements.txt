@@ -5,4 +5,4 @@ datasets==2.12.0
 PyPDF2==3.0.1
 python-docx==0.8.11
 cryptography==41.0.3
-reportlab==3.6.12  # Downgrade to a version more likely to have a precompiled wheel
+reportlab==3.6.7
